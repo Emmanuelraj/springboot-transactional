@@ -24,7 +24,7 @@ public class UserService
 	
 	
 	
-	@Transactional
+	
 	//insert
 	public void insert(List<UserDTO> users)
 	{

@@ -2,7 +2,8 @@
 
 # @Transactional - JDBCTemplate
             
-             Tips :  Transaction means logical data either retrieving data +update data from the relational database termed as  ACID
+             Tips :  Transaction means logical data either retrieving data 
+             +update data from the relational database termed as  ACID
     
     
 # Technology

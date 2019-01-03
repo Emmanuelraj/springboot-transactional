@@ -1,4 +1,4 @@
-# springboot-transactional
+# springboot-transactional + commandLineRunner
 
 # @Transactional - JDBCTemplate
             
